@@ -18,5 +18,6 @@ Topics that I learned from this Project:
  
 
 ![Game Gif](docs/giphy.gif)
+<iframe width="552" height="167" frameborder="0" src="https://itch.io/embed/1784284"><a href="https://arbiter1101.itch.io/3d-project-fp-horror">3D Project FP Horror by Arbiter1101</a></iframe>
 
 [Try Project Here](https://arbiter1101.itch.io/3d-project-fp-horror)
