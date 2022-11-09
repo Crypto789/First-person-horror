@@ -19,4 +19,4 @@ Topics that I learned from this Project:
 
 ![Game Gif](docs/giphy.gif)
 
-[Try Project Here]( https://crypto789.github.io/BUILDv2/)
+[Try Project Here]( https://crypto789.github.io/BUILD/)
