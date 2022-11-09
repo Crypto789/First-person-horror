@@ -19,4 +19,4 @@ Topics that I learned from this Project:
 
 ![Game Gif](docs/giphy.gif)
 
-[Try Project Here]( https://crypto789.github.io/BUILD/)
+[Try Project Here](https://arbiter1101.itch.io/3d-project-fp-horror)
